@@ -1,0 +1,3 @@
+source "buildertype" "name" {
+  # config
+}
